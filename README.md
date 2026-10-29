@@ -1,6 +1,6 @@
 ## Hi, I'm Fatuma 👋
 
-**Cloud Engineer · AWS · Terraform · AWS CDK · Serverless · Los Angeles**
+**Cloud Engineer · AWS · Al. Terraform · AWS CDK · Serverless · Los Angeles**
 
 I design and build AWS infrastructure as code, with a focus on secure, cost-aware architectures that can be torn down and rebuilt with a single command. Most of my work lives at the intersection of networking, identity and serverless application delivery.
 
