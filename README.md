@@ -19,10 +19,10 @@ More: [multi-tier web stack (CDK)](https://github.com/fatumaabdo14-cmd/my-web-ap
 
 ### Tech
 
-**Cloud:** AWS (VPC, EC2, ALB, Auto Scaling, RDS, S3, CloudFront, Lambda, API Gateway, DynamoDB, Cognito, IAM, KMS, Secrets Manager, CloudTrail, CloudWatch)
-**IaC:** Terraform · AWS CDK (TypeScript) · CloudFormation
-**CI/CD:** GitHub Actions · Git
-**Languages:** Python · TypeScript · JavaScript · Bash
+- **Cloud:** AWS (VPC, EC2, ALB, Auto Scaling, RDS, S3, CloudFront, Lambda, API Gateway, DynamoDB, Cognito, IAM, KMS, Secrets Manager, CloudTrail, CloudWatch)
+- **IaC:** Terraform · AWS CDK (TypeScript) · CloudFormation
+- **CI/CD:** GitHub Actions · Git
+- **Languages:** Python · TypeScript · JavaScript · Bash
 
 ### How I work
 
